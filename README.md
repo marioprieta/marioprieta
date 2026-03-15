@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I like building things that people can actually use, mostly web and mobile apps. Currently looking for the next problem worth solving.</p>
+<p align="center">I like building things that people can actually use, mostly web and mobile apps. Always open to learn.</p>
 
 ###
 
