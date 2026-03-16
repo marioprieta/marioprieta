@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-292D3E?style=for-the-badge&logo=linkedin-white&logoColor=C792EA)](https://www.linkedin.com/in/marioprieta/) [![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-292D3E?style=for-the-badge&logo=gmail&logoColor=C792EA)](mailto:marioprieta@gmail.com)\
-[![WakaTime](https://wakatime.com/badge/user/3fdff3a7-c6a8-4eb7-a451-ebfeaf436b85.svg?style=for-the-badge&color=292D3E&labelColor=292D3E)](https://wakatime.com/@3fdff3a7-c6a8-4eb7-a451-ebfeaf436b85)\
+[![WakaTime](https://wakatime.com/badge/user/3fdff3a7-c6a8-4eb7-a451-ebfeaf436b85.svg?style=for-the-badge&color=292D3E&labelColor=292D3E)](https://wakatime.com/@3fdff3a7-c6a8-4eb7-a451-ebfeaf436b85)
 
 <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=marioprieta&show_icons=true&hide=issues&show=prs_merged&theme=material-palenight&hide_border=false&border_radius=5&card_width=450" alt="GitHub Stats" height="165" />
 
